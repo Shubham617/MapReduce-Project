@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/aspectjrt-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/aspectjtools-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-ant-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-capacity-scheduler-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-client-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-examples-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-fairscheduler-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-minicluster-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-test-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-thriftfs-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hadoop-tools-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jdeb-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jsp-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/mrunit-0.9.0-incubating-hadoop1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubh/Desktop/Jar Files/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
